@@ -1,0 +1,39 @@
+/* CSS Document */
+
+*{
+	margin : 0px;
+	padding : 0px
+}	
+.tien{
+	height:500px;
+	width: 500px;
+	border: 2px solid #999;
+}
+.box{
+	height:100px;
+	width: 100px;
+	border: 2px solid #CE27D3;
+	position: fixed;
+	line-height:100px;
+	text-align: center;
+}
+.tl{
+	background-color: chartreuse;
+
+}
+.tr{
+	background-color: red;
+	right: 0;
+	top:0;
+	
+}
+.bl{
+	background-color: darkgrey;
+	left: 0;
+	bottom: 0;
+}
+.br{
+	background-color: cyan;
+		bottom :0;
+	    right: 0;
+}	
