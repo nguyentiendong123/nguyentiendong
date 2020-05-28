@@ -1,0 +1,112 @@
+*{
+    margin : 0px;
+    padding : 0px
+}
+body{
+background-color:#4c2b4f;
+}
+.khunghinh{
+    width:400px ;
+    height:300px;
+    background-color:cornsilk;
+    position: fixed;
+    top: 50%;
+    margin-top:-124px;
+    left:50%;
+    margin-left:-204px; 
+    border: 2px solid #999;
+}
+.loginfrom{
+    width: 379px;
+    height: 63px;
+    background-color:#704c73;
+    border-radius:1px;
+    line-height:63px;
+    font-size: 14pt;
+    color:#4c2b4f;
+    padding-left:22px;
+}
+.icon01{
+    list-style-image: url(icons8-xbox-x-50.png);
+    position: fixed;
+    top:50%;
+    margin-top: -115px;
+    left:50%;
+    margin-left:140px;
+}
+.tenmk{
+    height: 237px ;
+    width:399px;
+    background-color:#f2f2f2;
+}
+.username{
+   height:50px ;
+   width:323px;
+   color: #999999;
+   background-color: #f0eef0;
+   border: 2px solid #999;
+   border-radius:6px;
+   line-height: 47px;
+   padding-left:23px;
+   position: fixed;
+   margin-top: 23px;
+   margin-left: 23px;
+  
+}
+.test{
+    list-style-image: url(icons8-body-50.png);
+    position: fixed;
+    left:50%;
+    margin-left:106px;
+    
+}
+  
+.password{
+    height:50px ;
+   width:323px;
+   color: #999999;
+   border: 2px solid #999;
+   border-radius:6px;
+   background-color: #f0eef0;
+   line-height: 47px;
+   padding-left:23px;
+   position: fixed;
+   bottom: 50%;
+   margin-bottom: -96px;
+   right: 50%;
+   margin-right:-171px;
+
+}
+.icon02{
+    list-style-image: url(icons8-lock-50.png);
+    position: fixed;
+    top: 50%;
+    margin-top: 44px;
+    left:50%;
+    margin-left:162px;
+}
+.signin{
+    height:42px ;
+    width: 73px ;
+    font-size: 14pt;
+    background-color:#704c73;
+    border: 2px solid #999;
+    border-radius:6px;
+    line-height: 44px;
+   padding-left:17px;
+   position: fixed;
+   bottom:50%;
+   margin-bottom:-159px;
+   right:50%;
+   margin-right: 85px;
+   color: whitesmoke;
+}
+.tien{
+    color:#b5b5b5;
+    font-size: 14pt;
+    position: fixed;
+    top:50%;
+    margin-top: 126px;
+    left: 50%;
+    margin-left: -56px;
+}
